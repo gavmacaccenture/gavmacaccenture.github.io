@@ -74,7 +74,7 @@
                 <p>Cheddar cheese is one of the most widely known cheeses, originating from England. It has a sharp flavor and a firm texture.</p>
             </div>
             <div>
-                <img src="https://example.com/blue.jpg" alt="Blue Cheese">
+                <img src="jez-timms-gMW2NZ7JGrE-unsplash.jpg" alt="Blue Cheese">
                 <h3>Blue Cheese</h3>
                 <p>Blue cheese is characterized by its blue or green veins, which are a result of mold. It has a strong, tangy flavor.</p>
             </div>
