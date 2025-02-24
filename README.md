@@ -93,9 +93,5 @@
             <li>Cheese is high in protein and calcium, making it a great food for bone health.</li>
         </ul>
     </section>
-
-    <footer>
-        <p>Created with love for all things cheesy! &copy; 2025 Cheese World</p>
-    </footer>
 </body>
 </html>
